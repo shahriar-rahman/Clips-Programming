@@ -171,7 +171,6 @@
 (firstCousin (name "Beatrice") (firstCousin1 "William"))
 (firstCousin (name "Eugenie") (firstCousin1 "William")))
 
-__________________________________________________
 
 (defrule query1 (firstCousin (name "William"))
 => (printout t " Charles " ))
@@ -191,9 +190,6 @@ __________________________________________________
 (defrule query1 (parents (child "Harry"))
 => (printout t " Charles " ))
 
-___________________
-
-FAHIM
 
 (defrule query1 (firstCousin (name "William"))
 => (printout t " Charles " ))
@@ -210,6 +206,6 @@ FAHIM
 (defrule query5 (parents (child "Harry"))
 => (printout t " Charles " ))
 
-___________
+
 (defrule rule1(person (gender "male"))
 => (printout t "asas" clrf))

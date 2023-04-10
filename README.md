@@ -1,5 +1,5 @@
 # **Clips Programming**
-A Knowledge base for solving various queries derived from an AI-based Decision Tree.
+A Knowledge base for solving various queries derived from an AI-based Decision Tree. 
 
 ## Abstract
 The C Language Integrated Production System, also known as CLIPS, is a public domain software tool mostly applied in Artificial Intelligence (AI) Systems. The concept of this project is to solve family tree-based problems with an acyclic structure of nodes. Given a set of rules and facts, the objective is to create a knowledge base for the following queries:

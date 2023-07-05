@@ -1,4 +1,4 @@
-# **Clips Programming**
+# **Clips Programming based on Family Relationship Decision Trees**
 A Knowledge base for solving various queries derived from an AI-based Decision Tree. 
 
 ## Abstract
@@ -13,4 +13,4 @@ The C Language Integrated Production System, also known as CLIPS, is a public do
 ![alt text](https://github.com/shahriar-rahman/Clips-Programming/blob/main/Documents/Clips_family_tree.PNG)
 
 ## Origin
-The first versions of CLIPS were developed starting in 1985 at NASA-Johnson Space Center (as an alternative for existing system ART*Inference) until the mid-1990s when the development group's responsibilities ceased to focus on expert system technology. The original name of the project was "NASA's AI Language" (NAIL). CLIPS was probably the most widely used expert system tool as of 2005. CLIPS itself is written in C, extensions can be written in C, and CLIPS can be called from C. Its syntax resembles that of the programming language Lisp.
+The first versions of CLIPS were developed starting in 1985 at NASA-Johnson Space Center (as an alternative to the existing system ART*Inference) until the mid-1990s when the development group's responsibilities ceased to focus on expert system technology. The original name of the project was "NASA's AI Language" (NAIL). CLIPS was probably the most widely used expert system tool as of 2005. CLIPS itself is written in C, extensions can be written in C, and CLIPS can be called from C. Its syntax resembles that of the programming language Lisp.

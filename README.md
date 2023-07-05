@@ -1,4 +1,4 @@
-# **CLIPS Programming based on Family Relationship Decision Trees**
+# **CLIPSS Programming based on Family Relationship Decision Trees**
 A Knowledge base for solving various queries derived from an AI-based Decision Tree. 
 
 ## Abstract
